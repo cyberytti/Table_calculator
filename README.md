@@ -2,6 +2,10 @@
  
 This is a simple python based table calculator.
 
+# GUI 
+
+Gui version of this tool is available in this link↓↓
+https://pastebin.com/UW4SugEw
 # $upport
 
 Instagram →→@true.living
